@@ -128,6 +128,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isBoss: 0
-  moveSpeed: 0.5
+  moveSpeed: 1
   crystalPrefab: {fileID: 5611706341323616174, guid: b484952325b77724cae8f6d51b87c6a2, type: 3}
   giantKnifePrefab: {fileID: 6184724662006397368, guid: 3fb9b0d18394f4141899e864ec6ca22b, type: 3}
